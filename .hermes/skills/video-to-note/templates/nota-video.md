@@ -1,26 +1,15 @@
 ---
-tipo: video
-fonte: {{youtube | instagram | outro}}
 url: {{url}}
-autor: {{author}}
-duracao_min: {{duration_s / 60, arredondado}}
-idioma: {{language}}
-data_publicacao: {{upload_date}}
-data_captura: {{hoje AAAA-MM-DD}}
-tags: [tipo/video, status/processar, {{1–3 tags de tema}}]
-status: inbox
+tags: [tipo/video, {{1–3 tags de tema}}]
 ---
 # {{Título claro, não o título clickbait do vídeo}}
 
-> [!info] Fonte
-> [{{title}}]({{url}}) — {{author}}
-
 ## Resumo
-{{3–5 frases. Uma ideia por frase.}}
+{{2–3 parágrafos. Cobrir o vídeo por completo.}}
 
 ## Ideias-chave
-- {{ideia 1}}
-- {{ideia 2}}
+- **{{ideia 1}}**: {{2–4 frases, com exemplo ou dado da fonte}}
+- **{{ideia 2}}**: {{...}}
 
 ## Aplicações
 1. {{ação concreta, no imperativo}}

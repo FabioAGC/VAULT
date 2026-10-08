@@ -21,9 +21,9 @@ O usuário envia uma URL de youtube.com, youtu.be, instagram.com/reel ou instagr
 2. Ler a transcrição inteira antes de escrever.
 3. Buscar no vault 3–5 notas relacionadas (search_files com 3–5 termos-chave da transcrição) e o MOC mais próximo em 99 - META/MOCs/.
 4. Preencher templates/nota-video.md seguindo as regras de Escrita do .hermes.md. Idioma da nota = campo language.
-5. Salvar em 12 - INBOX/AAAA-MM-DD - <título curto>.md (data de hoje; título ≤ 60 caracteres).
-6. Adicionar um link para a nota nova no MOC escolhido, na seção "Inbox" do MOC (criar a seção se não existir).
-7. Responder com: caminho da nota, 1 frase de resumo, notas linkadas.
+5. Escolher a pasta do tema (ver "Onde salvar notas novas" no .hermes.md). Criar pasta ou subpasta se não existir, sem perguntar. Salvar em `<pasta>/<título curto>.md` (título ≤ 60 caracteres).
+6. Adicionar um link para a nota nova no MOC escolhido, no MOC (criar o MOC se não existir).
+7. Responder com: caminho da nota (e se criou pasta nova), 1 frase de resumo, notas linkadas.
 
 ## Pitfalls
 - Nome de arquivo no Windows: remover os caracteres \ / : * ? " < > | do título.
@@ -35,4 +35,6 @@ O usuário envia uma URL de youtube.com, youtu.be, instagram.com/reel ou instagr
 ## Verification
 - Frontmatter YAML válido, com tags apenas de 99 - META/tags.md.
 - Pelo menos 1 link [[ ]] para MOC e 1 para nota relacionada (se existir alguma).
-- Frases dentro dos limites do STE (≤ 25 palavras).
+- Frases dentro dos limites do STE (≤ 30 palavras).
+- Nota com a profundidade pedida em "Tamanho e profundidade" do .hermes.md.
+- Frontmatter só com `url` e `tags`.
