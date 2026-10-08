@@ -1,0 +1,17 @@
+## Amor fraternal - Storge
+
+Storge (_στοργη_) é o afeto com a família, especialmente entre os membros da família ou pessoas que se encontraram nesse círculo social. É descrita como a mais natural, emotiva, e difundida forma do amor: natural que existe sem a coerção; emotiva porque é o resultado do afeto devido à familiaridade; e difundido o mais extensamente porque dá menos atenção aquelas duas características julgadas “valiosas” ou dignas do amor e, em consequência, pode transcender a maioria de fatores discriminadores. Ironicamente, sua força, entretanto, é o que a faz vulnerável. A afeição tem a aparência de estar “pré-fabricada” ou “pronta”, diz Lewis. Em consequência disto, as pessoas esperaram sua presença e comportamento naturalmente.
+
+## Amizade - Philia
+
+Philia (_φιλια_) é uma forte ligação entre pessoas que compartilham um interesse ou uma vida comum, é a amizade entre amigos e companheiros. Lewis explicitamente diz que a definição de amizade é mais estreita do que o mero companheirismo: A amizade em seu sentido real existe somente se houver algo para que a amizade esteja “embasada”. Esta é a menos _natural_ dos tipos de amores, citados por Lewis; pois não é necessário um(a) progenitor(a) para ter afeição (storge), não tem o amor romântico e desejo envolvidos (eros) ou amor incondicional e divino (ágape).
+
+Ele tem menos associação com impulso ou emoção. Apesar destas características, era a opinião dos antigos (e do próprio Lewis) que ele é o mais admirável dos amores porque ele não olha ao amado (como o eros), mas ele olha em busca do “embasamento”- por que o relacionamento lhe deu forma. Sem o benefício da amizade para enfraquecer a solidão e outros aspectos da psique humana, a humanidade certamente estaria em ruínas. A amizade em si é o maior dos bens.
+
+## Amor romântico - Eros
+
+(_έρως_) é o amor no sentido de “amor romântico”. Muitas vezes associado à sexualidade e suas vertentes, com seus pecados e prazeres. Lewis identifica o Eros como indiferente. Isto é bom porque promove a apreciação do amado não obstante com todo o prazer que puder ser obtido dele. Pode ser mau, entretanto, porque esta devoção cega esteve na raiz de muitas das tragédias, das mais abomináveis da história. De acordo com seu aviso que o “amor começa a ser demoníaco…”, adverte de encontro ao perigo da elevação do Eros ao status de um deus, ou seja, a idolatria do amor. É intenso e um dos piores tipos de amor, pois pode ser cruel e inebriante ao mesmo tempo.
+
+## Amor incondicional - Ágape
+
+Ágape (_αγαπη_) é um amor considerado divino e incondicional. Lewis reconhece este como o maior dos amores, e vê-o como uma virtude especificamente cristã. O capítulo focaliza a necessidade de subordinar os amores naturais ao amor de Deus, que está repleto de amor caridoso. Lewis indica que “está assim cheio pelo fato que transborda e não pode ajudar-nos a amar.” Lewis compara metaforicamente o amor com um jardim, a caridade com os utensílios do jardineiro, o amante como o próprio jardineiro, e Deus como os elementos da natureza. O amor e a orientação de Deus agem em nosso amor natural (que não pode remanescer o que é por si) como o ato do sol e da chuva em um jardim: sem um ou outro, o objeto (metafórico do jardim; realisticamente o amor próprio) cessaria de ser bonito ou digno.

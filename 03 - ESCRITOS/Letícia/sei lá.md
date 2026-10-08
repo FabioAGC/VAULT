@@ -1,0 +1,1 @@
+o mesmo que falta em mim talvez seja o que falta nela , entendo que pelos rios e vales da vida as coisas possam parecer desconectadas mas tudo se encaixa de um jeito ou de outro , de formas exoticas as coisas chamam a outras

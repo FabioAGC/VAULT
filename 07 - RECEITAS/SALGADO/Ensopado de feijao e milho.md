@@ -1,0 +1,14 @@
+
+- 1 colher (sopa) de azeite de oliva
+- 1 cebola picada
+- 1 colher (chá) de sal
+- 3 dentes de alho picados
+- Pimenta chipotle em conserva, sem sementes e picada a gosto
+- ¾ xícara de quinua (usei a vermelha)
+- 3 xícaras de caldo de legumes
+- Pimenta do reino, a gosto
+- 500 g de batata-doce descascada e cortada em cubos
+- 1 ½ xícaras de milho verde cozido (de preferência fresco)
+- 1 lata de tomate pelado, picado
+- 1 ½ xícara de feijão preto cozido
+- Coentro fresco picado

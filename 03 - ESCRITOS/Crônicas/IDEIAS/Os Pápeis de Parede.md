@@ -1,0 +1,1 @@
+engraçado pensar em como os papeis de parede são uma via de expressão unica

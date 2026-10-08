@@ -1,0 +1,1 @@
+é um dos mió anime que tem , ele tem toda aquela parada de se sntir sozinho mesmo no meio de muita gente , ele é sao paulo dos animes

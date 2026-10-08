@@ -1,0 +1,7 @@
+Do vazio surge a chama que acende meu cigarro , engraçado pensar como essa ferramenta garantida a nós por prometeu foi se tornando parte do ritual quimico-espiritual que é acender um cigarro .O fogo acalenta e aquece quando estamos com frio, nessas horas pensamos em um fogo morno e inofensivo , controlado e submisso , mas na fogueira ou em incendios ela se torna uma besta atroz saltando e deixando seus rastros de um lado a outro 
+   
+nem por isso deixamos de nos apaixonar por cada fagulha e por cada brasa que é gerada conforme o combustivel queima , estamos apenas regozijando o destruir das coisas e de certa forma intimamente sádica , entendemos que esses ciclos de destruição e criação , são necessarios para que se entenda alguns prazeres da vida , aquilo que queima pode renascer das cinzas e e como uma fénix abrir sua asas e mais uma vez voar  
+  
+e com esse pensamento percebo que a presença dele na forma do isqueiro garante a sensação de controle sobre a revolta diaria
+
+Talvez isso seja o unico controle que eu tenha sobre ela , essa unica migalha flamejante, essa chama programada e segura lança uma ilusão de que algo tão caotico pode ser diminuido a sua menor parte e manipulado , talvez deveriamos fazer isso com nossos problemas e talvez isso seja um dos grandes atrativos do cigarro , um problema controlado , o mesmo jeito que usamos para descrever , ou melhor , mascarar os nossos próprios vicios

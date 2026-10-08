@@ -1,0 +1,1 @@
+aplicativo naipe tinder onde os caras dão o valor que estão dispostos a pagar e as acompanhantes swipam se querer o job ou não.

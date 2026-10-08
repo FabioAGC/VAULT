@@ -1,0 +1,1 @@
+app voltado para professores de crianças autistas , em que o professor coloca o hiperfoco da criança e uma IA retorna uma explicação e varios topicos de conversa sobre o assunto para que o professor possa se aproximar da criança , tendo varias abas uma para cada aluno

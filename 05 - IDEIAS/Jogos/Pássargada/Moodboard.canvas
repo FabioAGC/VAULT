@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ad12194847976a09","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/b4c2669fa0f1402002a616f6b32ac425.jpg","x":-680,"y":-400,"width":400,"height":225},
+		{"id":"d4fd6c3ae2826c0b","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/d41cdb588ddde8be352bc1b83641b63c.jpg","x":-680,"y":-706,"width":400,"height":225},
+		{"id":"83f25fd1a97e1a48","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/ebc9cb43c92f183274e17f9b0d769b66.jpg","x":-680,"y":-91,"width":400,"height":200},
+		{"id":"884ac71bc4f9d2d9","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/fe2051967fa7666ea3ca0e95cd4467e8.jpg","x":-360,"y":-1111,"width":400,"height":225},
+		{"id":"3d0dc726e9f16cd7","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/a7ea1f2e6fa25c5087ebf9e33947c12b.jpg","x":158,"y":-1125,"width":400,"height":239},
+		{"id":"5e20169ccff1e2bd","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/Zz0xMDYwMGY4NjYzMDhjZTZjZWUzNDdkNjYwNGY5ZDQ0Nw==.jpg","x":-200,"y":-103,"width":400,"height":225},
+		{"id":"d1f6a20ef181507f","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/3d2f0ca8f46b52daa20c2dc994ab85c9.jpg","x":-680,"y":-1126,"width":271,"height":400},
+		{"id":"f8573a2e8bb634dc","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/0181a986d1f0ad96a70182ecd4bd21e1.jpg","x":-221,"y":-400,"width":400,"height":225},
+		{"id":"5ceeec243f3c7955","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/51529619175de5045e830e8bcdc76221.jpg","x":-221,"y":-840,"width":358,"height":400},
+		{"id":"edd4270cc5c61deb","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/8a10e667-0113-4f86-8698-b88a2d4f0dcd.png","x":648,"y":-1106,"width":400,"height":400},
+		{"id":"392494e27f892083","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/7fc2666bbe2833a398484ecd9b4dad57.jpg","x":254,"y":-840,"width":305,"height":400},
+		{"id":"8a9affa053c46510","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/469479ca64d4758c647349bb77b888bb.jpg","x":738,"y":-640,"width":310,"height":400},
+		{"id":"b4386ad582f0f7aa","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/373e8c8a78ed0433275775f3e08c918d.jpg","x":248,"y":-400,"width":400,"height":225},
+		{"id":"398a408a3c1e7660","type":"file","file":"05 - IDEIAS/Jogos/Pássargada/Refs/f50ade539e30e093d49d5c1a726db435.jpg","x":763,"y":-190,"width":261,"height":399}
+	],
+	"edges":[]
+}

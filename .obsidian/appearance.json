@@ -1,0 +1,14 @@
+{
+  "showRibbon": false,
+  "cssTheme": "",
+  "showViewHeader": false,
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "sidetbar",
+    "Espaço",
+    "Colored Sidebar Items"
+  ],
+  "textFontFamily": "Times New Roman,Courier"
+}

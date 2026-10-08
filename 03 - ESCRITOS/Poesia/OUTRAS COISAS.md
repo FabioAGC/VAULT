@@ -1,0 +1,5 @@
+Estive pensando em como acabar as coisas , relações com prazos de validade que eu mesmo pus , levianamente alguns caprichos acabam tomando formas mais sólidas e viram pensamentos inteiros , e julgamentos , e por fim ações que eu mesmo ja deixei de controlar . 
+
+Estive pensando em como é facil ser egocentrico , de achar que temos mais compreensão sobre como a vida deve ser vivida do que os outros , o que é estranho por que na maioria das vezes todos estamos cambaleando por ai como pequenas sementes que são levadas pelo vento e nunca escolhem onde caem .
+
+Estive pensando em como o julgamento de inteligencias é algo que me da imenso prazer e tristeza visto que no mesmo passo que sinto aquele prazer de ser um pouco maios , ja logo me arrependo e me culpo por ter regojizado de tais oportunidades , sinto que a falta de profundidade me ofende em um nivel muito perto do meu proprio coracão , se eu penso e vivo dificilmente , a ideia de que os que não pensam vivem mais facil é algo que acaba com minha estruturas .

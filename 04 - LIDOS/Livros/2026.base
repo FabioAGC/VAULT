@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Livros
+    filters:
+      and:
+        - file.inFolder("10 - MISC/Livros/2026")
+    order:
+      - file.name
+      - autor
+    image: note.capa
+    cardSize: 160
+    imageAspectRatio: 1.55

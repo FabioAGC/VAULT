@@ -1,0 +1,3 @@
+Bem como diz aquele ditado "Chuva e sol casamento de espanhol " gostaria de tentar traduzir o que passa pelo meu coração nessas horas descritas por essa velha expressão sem sentido aparente. Esse é um momento de dualidade sem igual , e diria que um dos momentos que eu mais gosto no planeta terra simplesmente pelo jeito que ele tempera a existencia quando os planetas se alinham para tal . 
+
+Pra mim especificamente essa conjução de quando apos uma chuva cinza ali pelo final da tarde o petricor envolve o ambiente e a luz amarela as vezes um laranja bem comportado mergulham o mundo em um melancolica esperança ,

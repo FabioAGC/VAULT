@@ -1,0 +1,3 @@
+to tentando manter uma velha chama acesa e a cada brisa cálida que passa eu jogo um pouco mais de alguma parte de mim mesmo que eu nem sei em tentativas em vão de estender a era do fogo 
+
+talvez restos de coração enferrujado e carcomido pelo tempo , lascado de tantas choques e de tanto mau uso não consigam alimentar uma fogueira infima que nao se permite consumir , crepita com culpa pede e licensa pra iluminar

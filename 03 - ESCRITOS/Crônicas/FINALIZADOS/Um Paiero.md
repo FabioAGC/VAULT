@@ -1,0 +1,11 @@
+um abraço pros meus amigos mariana e lôlô
+
+paia , palheiro , paiero , paiol são todos nomes carinhosos dessa mineirice tremenda que é o cigarro de palha , e sobre ele uma memoria ainda me resta . Me pego lembrando no então aniversario de um amigo , em como 3 pessoas , eu , uma amiga e um amigo , de grupos completamente diferentes se juntaram ao lado de um velho fogão para acender um paiero (eu como mineiro me resguardo a usar a variação que me foi difundida e acostumada), ainda hoje tenho marcado na memoria o ritual que ali se formou . 
+
+Cada um degustava em seu proprio tempo , e como um acordo não verbal entre damas e cavalheiros ninguem apressava o outro , esperavamos pacientemente que a nossa vez chegasse. O gesto de passar o paiero era de uma cumplicidade silenciosa , como se compartilhassemos mais do que o fumo , uma espécie de aliança forjada pela simplicidade do momento passageiro, eventualmente o paiero se apagava e eu me pegava arricando meus cabelos para acende-lo novamente no fogão . 
+
+Já que nenhum de nois três eram fumantes propriamente ditos , racionalmente na falta de um isqueiro , se procura alternativas sempre das mais inoportunas . A fumaça subiu devagar, como se ela tivesse preguiça de ir embora depressa e depois algumas risadas soltas e comentarios ácidos trocados , cigarro apagado .O paiero se desfez em cinzas, consumido pela brevidade do encontro e pela eternidade daqueles poucos minutos partilhados , Cada um de nós voltou para suas respectivas zonas na festa e ali permaneceu , sem mais trocar palavras.
+
+ É nesse ponto me pego impressionado com a capacidade da qual certas coisas tem de unir pessoas impares , me senti parte de algo durante aqueles dois breves minutos que poucas vezes após senti na vida , me senti presente e aceito com uma sutileza e finura que destoavam enormemente do ambiente em que nos encontravamos , naquele momento senti uma fração da comunidade humana , aquele minutos de prazer insalubre me ensinou muito.
+
+Por mais bobo que seja assim dividimos um paiero , um simples ato de existir e repartir o que a vida nos da , seja muito , seja pouco .  
