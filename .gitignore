@@ -1,1 +1,4 @@
 .obsidian/workspace*
+.obsidian/cache
+.trash/
+__pycache__/
